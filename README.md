@@ -1,5 +1,8 @@
 ### Hi there I am Sujena👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sujena2407&show_icons=true&hide_border=true) <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" height="300px" align="right">
+
+
 <h2>Languages<h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50px" height="50px" >  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript logo" width="50px" height="50px" >  
