@@ -1,6 +1,6 @@
 ### Hi there I am Sujena👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sujena2407&show_icons=true&hide_border=true) <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" height="300px" align="right">
+![Github stats](https://github-readme-stats.vercel.app/api?username=sujena2407&show_icons=true&hide_border=true) <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" height="200px" align="right">
 
 
 <h2>Languages<h2>
