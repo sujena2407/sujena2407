@@ -9,6 +9,10 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql logo" width="50px" height="50px" >  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Mysql logo" width="50px" height="50px" >  
   
+  
+ <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujena2407&langs_count=10&layout=compact"/></p>
+
+
 <!--
 **sujena2407/sujena2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
