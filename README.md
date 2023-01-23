@@ -1,5 +1,11 @@
 ### Hi there I am Sujena👋
 
+<h2>Languages<h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50px" height="50px" >  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript logo" width="50px" height="50px" >  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql logo" width="50px" height="50px" >  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Mysql logo" width="50px" height="50px" >  
+  
 <!--
 **sujena2407/sujena2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
