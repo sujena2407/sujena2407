@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Mysql logo" width="50px" height="50px" >  
   
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujena2407&layout=compact)](https://github.com/sujena2407/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujena2407&layout=compact&theme=radical)](https://github.com/sujena2407/github-readme-stats)
 
 <!--
 **sujena2407/sujena2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
