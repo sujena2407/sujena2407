@@ -1,5 +1,9 @@
 ### Hi there I am Sujena👋
 
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujena2407" alt="sujena2407" /></a> </p>
+
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sujena2407&show_icons=true&hide_border=true) <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" height="200px" align="right">
 
 
